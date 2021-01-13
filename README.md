@@ -16,3 +16,4 @@ This project is an application built for developing my HTML and CSS skills.
 
 ### What I need to focus on:
 * Adding comments.
+* Using Git.
