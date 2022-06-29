@@ -1,5 +1,5 @@
-# HTML-and-CSS-practice
-Practising on HTML and CSS basics after finishing  an online course
+# Landing page
+Practising on HTML and CSS basics after finishing an online course
 
 ## What is this?
 This project is an application built for developing my HTML and CSS skills.
