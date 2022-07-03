@@ -296,7 +296,7 @@ hr {
     order: 3;
     height: 100vh;
     flex-basis: 100%;
-    background: linear-gradient(135deg, rgba(49, 24, 131, 0.8) 0%, rgb(72, 56, 149, 0.7) 100%), url(imageS/testimonials-bg.jpg);
+    background: linear-gradient(135deg, rgba(49, 24, 131, 0.8) 0%, rgb(72, 56, 149, 0.7) 100%), url(images/testimonials-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
